@@ -14,6 +14,8 @@ http://localhost:1337/admin
 
 Used Content-Type Builder in admin panel.
 
+loom video :  https://www.loom.com/share/6171de06e56e4944aa8cfaed762f34d4
+
 <img width="1430" height="696" alt="image" src="https://github.com/user-attachments/assets/9d035398-ff06-4995-b00e-5528ecd20eaf" />
 
 <img width="1524" height="638" alt="image" src="https://github.com/user-attachments/assets/0c811539-c1db-464b-827b-d00203ca78b7" />
